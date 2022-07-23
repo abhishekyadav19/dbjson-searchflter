@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image":"https://source.unsplash.com/random/300×300",
+      "title": "Headset 1",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "sales":"95",
+      "price":"12$"
+    },
+    {
+      "id": 2,
+      "image":"https://picsum.photos/200/300",
+      "title": "Headset 2",
+      "body": "All the Lorem Ipsum generators on the Internet tend to repeat predefined",
+      "sales":"35",
+      "price":"09$"
+    },
+    {
+      "id": 3,
+      "image":"https://source.unsplash.com/random/300×300",
+      "title": "Headset 3",
+      "body": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots",
+      "sales":"95",
+      "price":"73$"
+    },
+    {
+      "id": 4,
+      "image":"https://picsum.photos/200/300",
+      "title": "Headset 4",
+      "body": "There are many variations of passages of Lorem Ipsum available, but the majority industry.",
+      "sales":"95",
+      "price":"63$"
+    },
+    {
+      "id": 5,
+      "image":"https://source.unsplash.com/random/300×300",
+      "title": "Headset 5",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "sales":"15",
+      "price":"2$"
+    }
+  ]
+}

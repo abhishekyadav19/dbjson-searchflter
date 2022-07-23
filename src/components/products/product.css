@@ -1,0 +1,63 @@
+.search-main-bx {
+    height: 23rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(restraurant.jpg);
+    background-color: #000;
+    /* background-position: center center, center top; */
+    background-repeat: repeat, no-repeat;
+    background-size: cover; 
+    margin-bottom: 3rem;
+
+}
+
+.search-bar {
+    width: 40vw;
+    background-color: #fff;
+}
+
+.search-input {
+    height: 53px;
+}
+
+.listing-bx{
+    width: 90%;
+    margin: auto;
+}
+.product{
+    position: relative;
+}
+.wishlist{
+    position: absolute;
+    top: 11px;
+    right: 11px;
+    display: none;
+}
+.product:hover .wishlist{
+    display: block;
+}
+.product:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.wishlist svg{
+    color: #fff;
+}
+.footer-card{
+    justify-content: space-between;
+    padding-left: 14px !important;
+    padding-right: 14px !important;
+}
+.footer-card .css-18k87ye-MuiTypography-root{
+margin-bottom: 0 !important;
+}
+.product{
+    box-shadow: rgb(60 64 67 / 30%) 0px 1px 2px 0px, rgb(60 64 67 / 15%) 0px 1px 3px 1px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.product:hover .css-o69gx8-MuiCardMedia-root{
+    filter: blur(8px);
+  -webkit-filter: blur(1px);
+  
+}
